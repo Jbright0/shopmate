@@ -1,0 +1,33 @@
+{
+    "Products": [
+        {
+            "id": 1,
+            "name": "Product 1",
+            "price": 10.99,
+            "description": "Description for Product 1",
+            "inStock": true
+        },
+        {
+            "id": 2,
+            "name": "Product 2",
+            "price": 20.99,
+            "description": "Description for Product 2",
+            "inStock": true
+        }
+        ,
+        {
+            "id": 3,
+            "name": "Product 3",
+            "price": 30.99,
+            "description": "Description for Product 3",
+            "inStock": false
+        },
+        {
+            "id": 4,
+            "name": "Product 4",
+            "price": 40.99,
+            "description": "Description for Product 4",
+            "inStock": true
+        }
+    ]
+}
